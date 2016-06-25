@@ -8,4 +8,4 @@ In short, we learned to make things that make things.
 
 [The Class Page](http://psam3060-d-s16.github.io/class_notes/)
 
-![Output](week3_pixels/img/day2-01.png)
+![Output](week3_pixels/day3/img/day2-01.png)

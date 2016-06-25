@@ -6,4 +6,6 @@ In short, we learned to make things that make things.
 
 
 
-[The Class Page](docs/more_words.md)http://psam3060-d-s16.github.io/class_notes/)
+[The Class Page](http://psam3060-d-s16.github.io/class_notes/)
+
+![week2](http://hi-brinna.com/spiral2.png)
